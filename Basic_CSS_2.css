@@ -1,0 +1,9 @@
+body{
+	background:black;
+}
+p {
+color:aqua;
+font-weight:bold;
+text-shadow: 4px 3px #ff0000;
+text-align: center;
+}
