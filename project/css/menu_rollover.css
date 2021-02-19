@@ -17,7 +17,7 @@ body {
     background-color: #184352;
 }
     
-menu {
+.menu {
     font: bold 12px/18px sans-serif;
     text-align: center;
     display: inline;
@@ -38,7 +38,7 @@ background-color: #387593;
 cursor: pointer;
 }
     
-.menu li: hover {
+.menu li:hover {
     background-color: #5eafdf;
     color: #fff;
 }
