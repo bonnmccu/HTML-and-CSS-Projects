@@ -1,0 +1,53 @@
+html {
+    font-size: 20px;  
+    font-family: "Calibri light", Helvetica, Arial, sans-serif;
+    background-color: pink;
+    text-align: center;
+	
+}
+
+body{ 
+	font-size: 14 px;
+	font-family: "Calibri light", Helvetica, Arial, sans-serif;
+	}
+
+    /*---------------------NAV PROPERTIES---------------*/
+
+    .navbar {
+        height: 100px;
+        max-height: 300px;
+        display: block;
+    
+    }
+    
+    /*---------------------END NAV PROPERTIES---------------*/
+    
+    /*---------------------GALLERY---------------*/
+    
+    /*---------------------END GALLERY---------------*/
+    
+    /*---------------------ORDER FORM---------------*/
+.form-spacer input [type= "text"] {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    padding:2% 1% 2% 7%;
+    width: 80%;
+    border-top : 1px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 1px solid black;
+    margin: 10px 1em;
+    border-radius: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+}
+
+.submit input [type="submit"] hover {
+    color: #000;
+
+}
+.form-spacer {
+    padding: 30px 30px;
+}
+
+    /*---------------------END ORDER FORM---------------*/
