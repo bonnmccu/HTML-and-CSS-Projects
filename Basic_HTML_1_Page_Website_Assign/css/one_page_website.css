@@ -1,12 +1,18 @@
 html {
+    width: 100%;
+    margin: 8px;
+    border: 15px solid #000;
+    border-radius: 6px;  
+    cursor: pointer;
     font-size: 20px;  
     font-family: "Calibri light", Helvetica, Arial, sans-serif;
     background-color: pink;
     text-align: center;
-	
+    }
 }
 
 body{ 
+    
 	font-size: 14 px;
 	font-family: "Calibri light", Helvetica, Arial, sans-serif;
 	}
@@ -27,22 +33,22 @@ body{
     /*---------------------END GALLERY---------------*/
     
     /*---------------------ORDER FORM---------------*/
-.form-spacer input [type= "text"] {
+input {
     font-size: 15px;
-    outline: none;
-    font-weight: 600;
-    padding:2% 1% 2% 7%;
-    width: 80%;
-    border-top : 1px solid black;
-    border-right: 2px solid black;
-    border-bottom: 2px solid black;
-    border-right: 1px solid black;
-    margin: 10px 1em;
-    border-radius: 7px;
+    width: 30%;
+    margin: 10px;
+    border: 8px solid #000;
+    border-radius: 6px;
+    cursor: pointer;
     font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
 }
 
+.form-spacer input [type= "text"] 
+    
+    
+
 .submit input [type="submit"] hover {
+
     color: #000;
 
 }
